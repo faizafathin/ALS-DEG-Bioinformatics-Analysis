@@ -1,9 +1,7 @@
 # 🧠 A Bioinformatics Exploration of Differential Gene Expression in Amyotrophic Lateral Sclerosis (ALS)
 
-This repository contains the full analysis workflow and thesis manuscript from my MSc Bioinformatics project:
+This repository contains the complete research pipeline, code, results, and thesis manuscript from my Master’s project titled “A Bioinformatics Exploration of Differential Gene Expression in Amyotrophic Lateral Sclerosis (ALS),” with a focus on identifying dysregulated pathways and genes contributing to neurodegeneration.
 
-📄 ALS_DEG_Thesis_FaizaFathin.pdf — Full thesis PDF  
-📘 README.md — You are here
 
 ---
 
